@@ -1,0 +1,44 @@
+From fd48d8515ca852544f1a3dfee041bc866e214936 Mon Sep 17 00:00:00 2001
+Message-Id: <fd48d8515ca852544f1a3dfee041bc866e214936.1593502094.git.iwoithe@just42.net>
+From: iwoithe <iwoithe@just42.net>
+Date: Tue, 30 Jun 2020 16:42:14 +0930
+Subject: [PATCH] Added the README file.
+
+---
+ README.md | 25 +++++++++++++++++++++++++
+ 1 file changed, 25 insertions(+)
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..4424b6f
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,25 @@
++# Kenny
++
++A simple demo platformer made using Godot Engine.
++
++![](screenshots\demo.png)
++
++## Running
++
++1) Download the latest version of [Godot Engine](https://godotengine.org).
++
++2) Download this repository and navigate to the top level directory.
++
++3) Run the `project.godot` file.
++
++## Contributing
++
++Feel free to add your own levels, adjust the code, add more enemies etc. to your liking.
++
++## License
++
++This is released under the GNU GPL v3 license.
++
++## Credits
++
++Thanks to [Kenny](http://kenny.nl) for the many amazing free assets that are available.
+-- 
+2.26.2.windows.1
+
