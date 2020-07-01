@@ -2,7 +2,7 @@
 
 A simple demo platformer made using Godot Engine.
 
-![](screenshots\demo.png)
+![](screenshots/demo.png)
 
 ## Running
 
