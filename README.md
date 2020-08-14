@@ -18,7 +18,7 @@ Feel free to add your own levels, adjust the code, add more enemies etc. to your
 
 ## License
 
-This is released under the GNU GPL v3 license.
+This is released under the MIT license.
 
 ## Credits
 
